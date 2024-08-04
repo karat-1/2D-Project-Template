@@ -1,0 +1,19 @@
+{
+  "default_animation": {
+    "frames": 7,
+    "columns": 7,
+    "loop": true,
+    "speed": 0.001,
+    "centered": false,
+    "offset": [
+      0,
+      -8
+    ],
+    "width": 8,
+    "height": 16,
+    "center": [
+      0,
+      0
+    ]
+  }
+}

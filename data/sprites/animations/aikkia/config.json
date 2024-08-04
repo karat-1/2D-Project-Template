@@ -1,0 +1,138 @@
+{
+  "falling": {
+    "frames": 4,
+    "columns": 4,
+    "loop": true,
+    "speed": 0.004,
+    "centered": false,
+    "offset": [
+      13,
+      -8
+    ],
+    "width": 32,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  },
+  "idle": {
+    "frames": 1,
+    "columns": 1,
+    "loop": true,
+    "speed": 0.002,
+    "centered": false,
+    "offset": [
+      12,
+      -8
+    ],
+    "width": 32,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  },
+  "run": {
+    "frames": 10,
+    "columns": 10,
+    "loop": true,
+    "speed": 0.004,
+    "centered": false,
+    "offset": [
+      12,
+      -8
+    ],
+    "width": 32,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  },
+  "sommersault": {
+    "frames": 4,
+    "columns": 4,
+    "loop": true,
+    "speed": 0.005,
+    "centered": false,
+    "offset": [
+      12,
+      -8
+    ],
+    "width": 32,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  },
+  "wallslide_contact": {
+    "frames": 4,
+    "columns": 4,
+    "loop": true,
+    "speed": 0.005,
+    "centered": false,
+    "offset": [
+      10,
+      -8
+    ],
+    "width": 32,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  },
+  "wallrun": {
+    "frames": 6,
+    "columns": 6,
+    "loop": true,
+    "speed": 0.005,
+    "centered": false,
+    "offset": [
+      10,
+      -8
+    ],
+    "width": 32,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  },
+  "wallslide_loop": {
+    "frames": 4,
+    "columns": 4,
+    "loop": true,
+    "speed": 0.005,
+    "centered": false,
+    "offset": [
+      11,
+      -8
+    ],
+    "width": 32,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  },
+  "attack_ground": {
+    "frames": 8,
+    "columns": 8,
+    "loop": false,
+    "speed": 0.0045,
+    "centered": false,
+    "offset": [
+      18,
+      -8
+    ],
+    "width": 48,
+    "height": 32,
+    "center": [
+      0,
+      0
+    ]
+  }
+}

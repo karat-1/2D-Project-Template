@@ -1,0 +1,28 @@
+{
+  "idle": {
+    "frames": 6,
+    "columns": 6,
+    "loop": true,
+    "speed": 0.001,
+    "centered": false,
+    "offset": [
+      0,
+      -16
+    ],
+    "width": 16,
+    "height": 16
+  },
+  "run": {
+    "frames": 8,
+    "columns": 8,
+    "loop": true,
+    "speed": 0.002,
+    "centered": false,
+    "offset": [
+      0,
+      -16
+    ],
+    "width": 16,
+    "height": 16
+  }
+}

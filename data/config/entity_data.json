@@ -1,0 +1,48 @@
+{
+  "player":
+  {
+
+  },
+  "enemy_melee":
+  {
+    "max_velocity": [2, 2],
+    "roam_velocity": [0.5, 0],
+    "chase_velocity": [1.7, 0],
+    "sight_range": 100,
+    "attack_range": 8,
+    "chase_diameter": 200,
+    "health": 1,
+    "dash_cooldown": 60
+  },
+  "enemy_ranged":
+  {
+    "max_velocity": [5, 5],
+    "roam_velocity": [1, 0],
+    "chase_velocity": [1.7, 0],
+    "sight_range": 150,
+    "attack_range": 32,
+    "chase_diameter": 200,
+    "max_dist": 100,
+    "health": 1,
+    "dash_cooldown": 60
+  },
+    "enemy_stomp":
+  {
+    "max_velocity": [5, 5],
+    "roam_velocity": [0.4, 0],
+    "chase_velocity": [1.7, 0],
+    "sight_range": 150,
+    "attack_range": 32,
+    "chase_diameter": 200,
+    "max_dist": 100,
+    "health": 1,
+    "dash_cooldown": 60,
+    "attack_cooldown": 240
+  },
+  "enemy_proj_turret":
+  {
+    "aim_area_size": [100, 100],
+    "health": 1,
+    "cooldown": 180
+  }
+}

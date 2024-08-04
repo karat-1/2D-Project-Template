@@ -1,0 +1,47 @@
+{
+  "attack": {
+    "trigger": "press",
+    "binding": ["gamepad_button", [2]],
+    "mode": ["core"]
+  },
+  "jump": {
+    "trigger": "press",
+    "binding": ["gamepad_button", [0]],
+    "mode": ["core"]
+  },
+  "jump_hold": {
+    "trigger": "hold",
+    "binding": ["gamepad_button", [0]],
+    "mode": ["core"]
+  },
+  "parry": {
+    "trigger": "press",
+    "binding": ["gamepad_button", [3]],
+    "mode": ["core"]
+  },
+  "projectile": {
+    "trigger": "press",
+    "binding": ["gamepad_button", [4]],
+    "mode": ["all"]
+  },
+  "dash": {
+    "trigger": "press",
+    "binding": ["gamepad_button", [1]],
+    "mode": ["all"]
+  },
+  "wallrun": {
+    "trigger": "hold",
+    "binding": ["gamepad_button", [5]],
+    "mode": ["core"]
+  },
+    "start": {
+    "trigger": "press",
+    "binding": ["gamepad_button", [7]],
+    "mode": ["all"]
+  },
+    "select": {
+    "trigger": "press",
+    "binding": ["gamepad_button", [6]],
+    "mode": ["all"]
+  }
+}

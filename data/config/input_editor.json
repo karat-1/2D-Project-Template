@@ -1,0 +1,67 @@
+{
+  "move_right": {
+    "trigger": "hold",
+    "binding": ["keyboard", [100]],
+    "mode": ["core"]
+  },
+    "move_left": {
+    "trigger": "hold",
+    "binding": ["keyboard", [97]],
+    "mode": ["core"]
+  },
+  "move_up": {
+    "trigger": "hold",
+    "binding": ["keyboard", [119]],
+    "mode": ["core"]
+  },
+  "move_down": {
+    "trigger": "hold",
+    "binding": ["keyboard", [115]],
+    "mode": ["core"]
+  },
+  "fill": {
+    "trigger": "press",
+    "binding": ["keyboard", [114]],
+    "mode": ["core"]
+  },
+  "control": {
+    "trigger": "hold",
+    "binding": ["keyboard", [1073742048]],
+    "mode": ["core"]
+  },
+  "auto_tile": {
+    "trigger": "hold",
+    "binding": ["keyboard", [114]],
+    "mode": ["core"]
+  },
+  "remove_tile": {
+    "trigger": "hold",
+    "binding": ["keyboard", [102]],
+    "mode": ["core"]
+  },
+  "parry": {
+    "trigger": "press",
+    "binding": ["keyboard", [101]],
+    "mode": ["all"]
+  },
+  "dash": {
+    "trigger": "press",
+    "binding": ["keyboard", [113]],
+    "mode": ["all"]
+  },
+  "wallrun": {
+    "trigger": "press",
+    "binding": ["keyboard", [9]],
+    "mode": ["all"]
+  },
+    "start": {
+    "trigger": "press",
+    "binding": ["keyboard", [9]],
+    "mode": ["all"]
+  },
+    "select": {
+    "trigger": "press",
+    "binding": ["keyboard", [9]],
+    "mode": ["all"]
+  }
+}

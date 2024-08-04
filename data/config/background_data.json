@@ -1,0 +1,12 @@
+{
+  "level_data_01" :
+    {
+      "amount_of_layers": 3,
+      "parallax_mult": [0, 1, 2]
+    },
+  "level_data_02" :
+  {
+    "amount_of_layers": 3,
+    "parallax_mult": [0, 1, 2]
+  }
+}
